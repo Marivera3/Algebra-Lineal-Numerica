@@ -12,7 +12,7 @@ R = zeros(n, n);
 
 for j=1:n
     v = A(:, j);
-    r = conj(Q)'*v;
+    r = Q'*v;
     v = v - Q*r;
     rjj = norm(v);
     v = v/rjj;
