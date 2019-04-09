@@ -1,3 +1,6 @@
+% Created by Maximiliano Rivera, based on Numerical Linear Algebra by
+% L.N.Trefetehn.
+
 function [ Q, R ] = QRbyGSC(A)
 % This function is for decompose a matrix A in matrices Q and R, where Q
 % has orthonormal columns and R is upper triangular, such that A = QR. This is possible
