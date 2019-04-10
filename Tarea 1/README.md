@@ -1,5 +1,9 @@
-# Álgebra Lineal Numérica - Maximiliano Rivera
+# Tarea 1
 
-Este repositorio presenta los trabajos realizados a lo largo del curso IMT2111 - Álgebra Lineal Numérica.
+Esta tarea consta de utilizar y programar diferentes descomposiciones. El lenguaje utilizado es MATLAB.
 
-En la carpeta Tarea1 se encuentra el código de diferentes descomposiciones (QR, SVD), y los task realizados.
+- QRbyGSC: Es la descomposición QR mediante el algoritmo de Gram-Schmidt clásico
+- QRbyGSM: Es la descomposición QR mediante el algoritmo de Gram-Schmidt modificado
+- QRbyHouseholder: Es la descomposición QR mediante el algoritmo de Householder
+- Tarea1_MaximilianoRivera:  Presenta la entrega final
+- Preguntas2, 3, 4: Son las respuestas a los problemas del enunciado.
